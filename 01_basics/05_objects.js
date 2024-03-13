@@ -60,3 +60,8 @@ const course={
 const {courseInstructor:Instructor}=course
 console.log(Instructor);
 
+// {
+//     "name":"Priti",
+//     "coursename":"js in hindi",
+//     "price":"Free"
+// }
