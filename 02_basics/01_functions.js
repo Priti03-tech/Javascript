@@ -21,5 +21,5 @@ function LoginUser(username)
     return`${username} just logged in`
 }
 
-console.log(LoginUser("Priti"));
+//console.log(LoginUser("Priti"));
 console.log(LoginUser());
